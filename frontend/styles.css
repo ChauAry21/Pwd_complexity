@@ -1,0 +1,28 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    text-align: center;
+}
+
+input[type="password"], button {
+    display: block;
+    margin: 20px auto;
+}
+
+button {
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+#result {
+    text-align: center;
+    font-weight: bold;
+    margin-top: 20px;
+}
+
+#alternativePassword {
+    text-align: center;
+    margin-top: 20px;
+}
